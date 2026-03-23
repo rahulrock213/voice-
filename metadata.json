@@ -1,0 +1,7 @@
+{
+  "name": "Aura - Organic Voice Companion",
+  "description": "An incredibly empathetic, warm, and highly emotional human conversational partner using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
